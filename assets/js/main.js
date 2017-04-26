@@ -1,0 +1,1 @@
+document.anchors.length;
